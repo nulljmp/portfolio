@@ -30,29 +30,29 @@ export default function Projects() {
             {
                 title: "ch",
                 description: "A small hashing utility",
-                link: "https://github.com/LLuisJ/ch",
-                linktext: "LLuisJ/ch",
+                link: "https://github.com/nulljmp/ch",
+                linktext: "nulljmp/ch",
                 badges: ["Go", "CLI"],
             },
             {
                 title: "OBF",
                 description: "A Brainfuck compiler written in Odin",
-                link: "https://github.com/LLuisJ/OBF",
-                linktext: "LLuisJ/OBF",
+                link: "https://github.com/nulljmp/OBF",
+                linktext: "nulljmp/OBF",
                 badges: ["Odin", "Compiler"],
             },
             {
                 title: "microserve",
                 description: "A gin inspired python http library",
-                link: "https://github.com/LLuisJ/microserve",
-                linktext: "LLuisJ/microserve",
+                link: "https://github.com/nulljmp/microserve",
+                linktext: "nulljmp/microserve",
                 badges: ["Python", "HTTP"],
             },
             {
                 title: "Portfolio",
                 description: "This website here",
-                link: "https://github.com/LLuisJ/portfolio",
-                linktext: "LLuisJ/portfolio",
+                link: "https://github.com/nulljmp/portfolio",
+                linktext: "nulljmp/portfolio",
                 badges: ["Nextjs", "Web"],
             }
         ]
